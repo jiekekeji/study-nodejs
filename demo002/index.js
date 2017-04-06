@@ -1,0 +1,1 @@
+console.log("demo002 index.js");
